@@ -25,7 +25,6 @@ nbproject/
 
 ##General Files
 *.class
-*.jar
 *.workspace
 *.log
 /target/
