@@ -1,0 +1,78 @@
+Welcome to the Composer App
+
+
+MENU OPTIONS
+  1. View Composers
+  2. Find Composers
+  3. Add Composers
+  4. Exit
+
+Please choose an option: 1
+
+
+--DISPLAYING COMPOSER--
+ID: 1007
+Name: Ludwig Van Beethoven
+Genre: Classical
+
+
+ID: 1008
+Name: Johann Sebastian Bach
+Genre: Classical
+
+
+ID: 1009
+Name: Wolfgang Amadeus Mozart
+Genre: Classical
+
+
+ID: 1010
+Name: Johannes Brahms
+Genre: Classical
+
+
+ID: 1011
+Name: Joseph Haydn
+Genre: Classical
+
+
+MENU OPTIONS
+  1. View Composers
+  2. Find Composers
+  3. Add Composers
+  4. Exit
+
+Please choose an option: 2
+
+
+Enter an id: 1007
+
+
+--DISPLAYING COMPOSER--
+ID: 1007
+Name: Ludwig Van Beethoven
+Genre: Classical
+
+
+MENU OPTIONS
+  1. View Composers
+  2. Find Composers
+  3. Add Composers
+  4. Exit
+
+Please choose an option: 3
+Enter an id: 1012
+Enter a name: Test Composer
+Enter a genre: Classical
+
+
+MENU OPTIONS
+  1. View Composers
+  2. Find Composers
+  3. Add Composers
+  4. Exit
+
+Please choose an option: 4
+
+
+End of line...
